@@ -27,7 +27,7 @@ paths:
                     password: secret
             example:
               name: peter
-              email: peterisnice@gmail.com
+              email: peter2000@gmail.com
               password: secret
         required: true
       responses:
